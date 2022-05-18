@@ -1,0 +1,15 @@
+{
+    "include":[
+        "./"
+    ],
+    // 编译器的选项
+    "compilerOptions": {
+        // 编译语言版本
+        "target": "ES6",
+        // 使用哪种模块化
+        // "module": "commonjs",
+        "outDir": "./dist",
+        // "outFile": ""
+
+    }
+}
